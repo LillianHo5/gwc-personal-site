@@ -1,0 +1,73 @@
+* {
+  margin: 0px; 
+  padding: 0px; 
+}
+
+/* STYLE SECTIONING TAGS */
+body {
+background-color: #8E8A7E; 
+font-family: 'Open Sans', sans-serif;
+text-align: center;
+}
+
+/* STYLE TEXT */
+
+h1 {
+  font-size: 2.2em;
+  color: #B1B1B5;
+  padding-top: 1.1em; 
+  padding-bottom: 1.1em;
+}
+
+p {
+  margin: 30px 0px;
+  color: #191417;
+  background-color: #B1B1B5;
+  padding: 1.1em;
+}
+
+/* STYLE IMAGES */
+img {
+  margin: 30px 0px; 
+  max-width: 400px; 
+  border: 4px white solid;
+}
+
+#Lillian {
+  border-radius: 10%;
+}
+
+header {
+  background-color: #656050;
+  padding: 100px;
+}
+
+main {
+  text-align: center;
+  margin-top: 0; 
+  margin: 0% 20%;
+}
+/* STYLE NAV BAR */
+
+
+ul {
+  list-style-type: none;
+  background-color: #191417;
+  overflow: hidden; 
+  padding: 1em;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  text-decoration: none; 
+  font-size: 1.3em; 
+  padding: 1em; 
+  color: white;
+}
+
+li a:hover {
+  background-color: #40353C;
+}
